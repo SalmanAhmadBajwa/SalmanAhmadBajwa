@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Salman Ahmad</h1>
-<h3 align="center">A passionate Software Engineer from Pakistan</h3>
+<h3 align="center">A passionate Software Engineer</h3>
 
 <img align="right" alt="coding" widht="400" src="https://cdn.dribbble.com/users/333243/screenshots/5343222/media/229510ceedfb1fa4df7ff171b3e58f03.png?resize=1000x750&vertical=center">
  
